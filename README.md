@@ -18,9 +18,9 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FoeSeaL/FoeSeaL/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/FoeSeaL/FoeSeaL/output/github-snake.svg" />
 </picture>
-###
 
-<img align="right" height="150" src="https://media.tenor.com/cHSkjU_sqNcAAAAj/siiii.gif"  />
+
+<img align="right" height="150" width="100%" src="https://media.tenor.com/cHSkjU_sqNcAAAAj/siiii.gif"  />
 
 ###
 
