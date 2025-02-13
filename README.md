@@ -47,7 +47,7 @@
 ###
 
 <div align="center">
-  <img height="200" width="450px" src="https://t3.ftcdn.net/jpg/06/65/31/40/360_F_665314071_vZbEfKbImd0lTgtB9tbDyeoh74FCbWJz.jpg"  />
+  <img height="200" width="650px" src="https://t3.ftcdn.net/jpg/06/65/31/40/360_F_665314071_vZbEfKbImd0lTgtB9tbDyeoh74FCbWJz.jpg"  />
 </div>
 
 ###
